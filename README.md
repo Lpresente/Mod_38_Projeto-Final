@@ -10,7 +10,6 @@ Este repositório contém o desenvolvimento completo de um modelo de **Credit Sc
 
 Aqui está o funcionamento prático da ferramenta de escoragem em funcionamento:
 
-![Demonstração do App]()
 
 
 
