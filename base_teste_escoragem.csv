@@ -1,0 +1,51 @@
+data_ref,index,sexo,posse_de_veiculo,posse_de_imovel,qtd_filhos,tipo_renda,educacao,estado_civil,tipo_residencia,idade,tempo_emprego,qt_pessoas_residencia,renda
+2015-01-01,5733,F,N,N,0,Empresário,Médio,Solteiro,Casa,43,6.873972602739726,1.0,2515.39
+2015-01-01,727,F,S,S,0,Assalariado,Médio,Casado,Casa,35,4.526027397260274,2.0,3180.19
+2015-01-01,6374,F,N,N,2,Assalariado,Médio,Casado,Casa,31,0.2438356164383561,4.0,1582.29
+2015-01-01,9566,F,N,N,0,Assalariado,Médio,Casado,Casa,54,12.772602739726029,2.0,13721.17
+2015-01-01,9502,F,S,N,0,Assalariado,Superior incompleto,Solteiro,Casa,31,8.432876712328767,1.0,2891.08
+2015-01-01,7382,F,N,S,1,Assalariado,Superior completo,Casado,Casa,45,24.315068493150687,3.0,25387.16
+2015-01-01,1462,F,S,S,2,Empresário,Superior completo,Casado,Casa,38,9.926027397260274,4.0,3544.27
+2015-01-01,14967,M,N,S,0,Assalariado,Superior completo,Casado,Com os pais,40,8.69041095890411,2.0,5331.02
+2015-01-01,5033,F,S,S,2,Servidor público,Fundamental,Casado,Casa,38,15.643835616438356,4.0,4758.3
+2015-01-01,12422,F,N,S,0,Pensionista,Médio,Casado,Casa,60,,2.0,1929.08
+2015-01-01,5159,F,N,S,0,Pensionista,Médio,Solteiro,Casa,66,,1.0,4825.49
+2015-01-01,1988,F,N,S,0,Empresário,Superior completo,União,Casa,47,0.673972602739726,2.0,3123.86
+2015-01-01,11643,F,N,S,0,Pensionista,Médio,Casado,Casa,57,,2.0,3536.33
+2015-01-01,2405,F,N,N,0,Empresário,Médio,Casado,Casa,65,16.621917808219177,2.0,10020.48
+2015-01-01,7106,M,S,S,0,Empresário,Médio,Casado,Casa,52,9.882191780821918,2.0,11516.64
+2015-01-01,11104,M,N,S,0,Assalariado,Médio,Casado,Casa,47,12.931506849315069,2.0,8138.24
+2015-01-01,13312,M,S,S,1,Assalariado,Superior completo,Casado,Casa,38,4.931506849315069,3.0,2715.4
+2015-01-01,14941,M,S,S,0,Servidor público,Superior completo,Casado,Casa,27,1.7616438356164383,2.0,4207.82
+2015-01-01,3202,F,N,N,1,Empresário,Médio,Casado,Casa,41,2.723287671232877,3.0,3484.98
+2015-01-01,12716,M,N,S,0,Pensionista,Médio,Casado,Aluguel,45,,2.0,5101.6
+2015-01-01,8345,F,N,N,0,Assalariado,Superior incompleto,Casado,Casa,44,5.8054794520547945,2.0,3891.55
+2015-01-01,628,F,S,S,0,Empresário,Médio,Separado,Casa,49,8.276712328767124,1.0,10168.46
+2015-01-01,5322,F,N,S,0,Servidor público,Médio,Casado,Casa,54,10.936986301369863,2.0,6309.59
+2015-01-01,10097,F,N,S,0,Pensionista,Médio,Casado,Casa,60,,2.0,2639.23
+2015-01-01,7087,F,S,S,0,Assalariado,Superior completo,Solteiro,Casa,26,1.6246575342465754,1.0,3761.67
+2015-01-01,11918,F,N,N,0,Assalariado,Superior completo,Casado,Casa,26,3.665753424657534,2.0,2401.5
+2015-01-01,14106,F,N,N,0,Assalariado,Médio,Casado,Casa,37,5.205479452054795,2.0,1400.81
+2015-01-01,7658,F,S,S,0,Empresário,Médio,Casado,Casa,45,1.0164383561643835,2.0,6206.0
+2015-01-01,1744,F,N,S,0,Empresário,Médio,Viúvo,Casa,36,0.6438356164383562,1.0,1012.65
+2015-01-01,1219,M,N,S,1,Empresário,Médio,Casado,Casa,38,0.7534246575342466,3.0,2506.48
+2015-01-01,3586,F,N,S,2,Assalariado,Superior completo,Casado,Comunitário,42,0.9342465753424658,4.0,2527.63
+2015-01-01,1947,F,S,S,0,Empresário,Superior completo,Casado,Casa,43,0.5068493150684932,2.0,2717.88
+2015-01-01,9031,M,N,S,0,Assalariado,Superior completo,Casado,Comunitário,27,1.5287671232876712,2.0,4270.45
+2015-01-01,4555,F,N,N,1,Assalariado,Médio,União,Casa,31,5.178082191780822,3.0,930.2
+2015-01-01,12054,F,N,S,0,Empresário,Superior completo,Casado,Casa,53,12.167123287671233,2.0,6405.69
+2015-01-01,4166,F,N,S,0,Assalariado,Médio,Solteiro,Casa,57,13.386301369863014,1.0,22677.04
+2015-01-01,9677,F,N,S,0,Assalariado,Superior completo,Casado,Casa,27,1.2602739726027397,2.0,1523.82
+2015-01-01,8706,F,N,N,0,Pensionista,Médio,Separado,Casa,64,,1.0,1872.83
+2015-01-01,3016,F,S,S,0,Assalariado,Superior completo,Casado,Casa,47,8.638356164383561,2.0,7368.15
+2015-01-01,9891,M,S,S,2,Assalariado,Superior completo,Casado,Casa,42,19.18904109589041,4.0,21489.24
+2015-01-01,13732,M,N,S,3,Assalariado,Médio,Casado,Casa,38,7.876712328767123,5.0,6820.76
+2015-01-01,11503,F,N,N,4,Empresário,Médio,Casado,Casa,35,3.767123287671233,6.0,3429.0
+2015-01-01,8179,M,N,S,1,Servidor público,Médio,Casado,Casa,38,0.6356164383561644,3.0,5090.17
+2015-01-01,15950,F,N,S,0,Assalariado,Médio,Viúvo,Casa,47,6.964383561643835,1.0,3693.08
+2015-01-01,2950,M,N,S,0,Assalariado,Superior completo,Casado,Casa,38,11.726027397260276,2.0,12061.2
+2015-01-01,13471,M,S,N,0,Pensionista,Médio,Casado,Casa,62,,2.0,8194.75
+2015-01-01,5434,F,N,N,0,Assalariado,Superior completo,Separado,Casa,59,4.18082191780822,1.0,677.96
+2015-01-01,6152,F,S,S,0,Empresário,Médio,Solteiro,Casa,33,3.9178082191780814,1.0,1702.8
+2015-01-01,16486,M,S,N,2,Assalariado,Médio,Casado,Casa,40,6.06027397260274,1.0,1031.77
+2015-01-01,8547,F,N,S,0,Pensionista,Médio,Casado,Casa,62,,2.0,962.47
