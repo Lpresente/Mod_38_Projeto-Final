@@ -1,5 +1,7 @@
 
 
+
+
 # 🚀 Projeto Credit Scoring: Da Modelagem à Produção com Streamlit
 
 Este repositório contém o desenvolvimento completo de um modelo de **Credit Scoring** para previsão de inadimplência de clientes. O projeto engloba desde a análise exploratória de dados e treinamento de um modelo preditivo robusto (Regressão Logística) até a construção de uma aplicação web interativa utilizando o **Streamlit** para escoragem automática em ambiente de produção.
@@ -10,7 +12,7 @@ Este repositório contém o desenvolvimento completo de um modelo de **Credit Sc
 
 Aqui está o funcionamento prático da ferramenta de escoragem em funcionamento:
 
-
+<img width="800" height="450" alt="Streamlit_teste" src="https://github.com/user-attachments/assets/783e1c57-d3bb-4ca4-b62e-0ec02ba5383d" />
 
 
 ## 📂 Estrutura do Repositório
