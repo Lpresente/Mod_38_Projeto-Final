@@ -1,15 +1,25 @@
-# Projeto Credit Scoring com Streamlit
+# 🚀 Projeto Credit Scoring: Da Modelagem à Produção com Streamlit
 
-Este repositório contém a modelagem de Credit Scoring e o desenvolvimento de um aplicativo web interativo para escoragem automática de novos clientes.
+Este repositório contém o desenvolvimento completo de um modelo de **Credit Scoring** para previsão de inadimplência de clientes. O projeto engloba desde a análise exploratória de dados e treinamento de um modelo preditivo robusto (Regressão Logística) até a construção de uma aplicação web interativa utilizando o **Streamlit** para escoragem automática em ambiente de produção.
+
+---
 
 ## 💻 Demonstração do Aplicativo
 
-Aqui está o funcionamento prático da ferramenta desenvolvida:
+Aqui está o funcionamento prático da ferramenta de escoragem em funcionamento:
 
 ![Demonstração do App](nome_do_seu_video_ou_gif.gif)
 
-## 🛠️ Tecnologias Utilizadas
-- Python 3.10.20
-- Pandas & Scikit-Learn
-- Streamlit
-- Pickle
+
+
+## 📂 Estrutura do Repositório
+
+O projeto está organizado da seguinte forma:
+
+```text
+├── Mod38Exercicio1.ipynb     # Análise univariada, bivariada e amostragem temporal (OOT)
+├── Mod38Projeto.ipynb        # Modelagem completa e exportação do artefato final
+├── app.py                    # Código-fonte da aplicação interativa Streamlit
+├── model_final.pkl           # Pipeline e modelo de Regressão Logística treinados (Pickle)
+├── credit_scoring.ftr        # Base de dados original no formato Apache Arrow (Feather)
+└── base_teste_escoragem.csv  # Base limpa gerada para testes de escoragem no app
